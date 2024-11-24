@@ -34,7 +34,7 @@ def aqi_register( apikey, country, state, city) :
         return {"error": f"Data Structure Error: {e}. Please check API response format."}
 
 if __name__ == "__main__" :
-    Apikey = "7da56f99-9f24-437a-a017-21b178b360d7"
+    Apikey = "YOUR-API-KEY"
     Country = input("Country : ").strip().lower()
     State = input("State : ").strip().lower()
     City = input("City : ").strip().lower()
