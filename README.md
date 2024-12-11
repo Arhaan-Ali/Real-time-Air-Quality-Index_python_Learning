@@ -1,7 +1,7 @@
 
 # AQI_mate 
 
-AQI Fetcher is a project designed to provide real-time air quality information based on a user's current location. The project consists of two main files:
+AQI-mate is a project designed to provide real-time air quality information based on a user's current location. The project consists of two main files:
 
 location_fetcher.py - Responsible for obtaining the user's location using APIs.
 aqi_fetcher.py - Fetches air quality data based on the retrieved location details.
